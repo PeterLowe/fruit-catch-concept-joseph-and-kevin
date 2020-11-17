@@ -1,15 +1,28 @@
 Striggly Little Fruit Game
 
+
 Joseph and Kevin
 
-Introduction
-...
-Background
-...
+
+Introduction:
+
+Striggly Little Fruit Game is a 2d puzzle game on mobile where you
+maneuvering your character on screen to catch fruit as they fall from the sky.
+
+
+Background:
+
+
 Pillars
 ...
+
+
 Description
 ...
+
+
 Features
 ...
+
+
 
