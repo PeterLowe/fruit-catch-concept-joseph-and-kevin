@@ -1,4 +1,4 @@
-The Striggly Fruit Catch
+The Striggler's Fruity Catch
 
 
 Joseph and Kevin
@@ -8,8 +8,14 @@ Introduction
 A 2D puzzle game for your mobile where you are one hungry vegetarian who loves his fruit,
 The game is set in and around The strigglers house, maneuvering The Striggler so he can eat all the fruit as they fall from the sky
 
-Background
-...
+Background:
+You play as a striggler, a vegetarian who has an insatiable appetite for fruit.
+You head out of your house one day and a genie appears to grant you 3 wishes.
+you wished you could eat as much food as you wanted without getting full
+and the genie granted that wish. Then you wished to be able to move faster so you
+could get more food and that wish was granted. As your final wish you asked for it to rain
+food from the sky and the genie granted your final wish. you started dashing around trying to collect the fruit as they fell from
+the sky but watch out! it's also raining meat. You must avoid eating the meat while getting the fruit.
 
 Pillars
 ...
