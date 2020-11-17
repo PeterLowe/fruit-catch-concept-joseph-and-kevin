@@ -1,4 +1,4 @@
-The Striggly Fruit Catch
+The Strigglers Fruity Catch
 
 
 Joseph and Kevin
@@ -9,7 +9,10 @@ A 2D puzzle game for your mobile where you are one hungry vegetarian who loves h
 The game is set in and around The strigglers house, maneuvering The Striggler so he can eat all the fruit as they fall from the sky
 
 Background
-...
+The Striggler is a vegetarian but this wasnt always the case, when he was younger he had two pet chickens. One day he decided to kill them 
+and cook them. The next day he felt bad and became a vegetarian.
+The Strigglers house is large and has many rooms but his house isn't the only area in the game!
+We will use Unity engine to make this game
 
 Pillars
 ...
